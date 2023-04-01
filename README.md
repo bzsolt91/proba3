@@ -1,2 +1,2 @@
 # proba3
-óra
+óra repó
